@@ -1,0 +1,1301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hidden",
+				"hidden-xs"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"tras",
+				"transition"
+			],
+			[
+				"primary",
+				"primary-dark"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"prima",
+				"primary-bg"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"subc",
+				"subscriber-individual"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"agend",
+				"agenda-lines"
+			],
+			[
+				"lan",
+				"landscape"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"agenda",
+				"agenda_height"
+			],
+			[
+				"overf",
+				"overflow-x"
+			],
+			[
+				"add-add",
+				"add-address-proper"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"moda",
+				"modal-content"
+			],
+			[
+				"clear",
+				"clearbg"
+			],
+			[
+				"flex",
+				"flexbox"
+			],
+			[
+				"flex-",
+				"flex-grow"
+			],
+			[
+				"font-s",
+				"font-stack"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"font",
+				"font-bold"
+			],
+			[
+				"campai",
+				"campaign-in-the-box"
+			],
+			[
+				"campa",
+				"campaign-in-the-box"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"ease",
+				"ease-in"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"li",
+				"li\t:link"
+			],
+			[
+				"foc",
+				"focusout\t.focusout()"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"op",
+				"opacity()"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"recomm",
+				"recommended-cont"
+			],
+			[
+				"total",
+				"total"
+			],
+			[
+				"telex",
+				"telex_charge"
+			],
+			[
+				"branc",
+				"branch_fee"
+			],
+			[
+				"pri",
+				"principal_value"
+			],
+			[
+				"inlin",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client-service.html",
+			"settings":
+			{
+				"buffer_size": 13682,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 17466,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 12790,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "join.html",
+			"settings":
+			{
+				"buffer_size": 16150,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "theme.html",
+			"settings":
+			{
+				"buffer_size": 26242,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "accreditation.html",
+			"settings":
+			{
+				"buffer_size": 20995,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/custom.scss",
+			"settings":
+			{
+				"buffer_size": 12781,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\nGC Accreditation Support\nHospital / Health System IT Services\nAmbulatory IT Services (EMR & PM)\nTalent provider\nStrategic Planning",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Dresdain/Unicom Interactive/Icon Files/icons list",
+			"settings":
+			{
+				"buffer_size": 564,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/custom.css",
+			"settings":
+			{
+				"buffer_size": 13911,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 167738,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/lessc/lessc.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/lessc/lessc.sublime-build",
+					""
+				],
+				[
+					"Packages/lessc/lessc.sublime-build",
+					"Non-Minified"
+				]
+			],
+			[
+				"Packages/lessc/lessc.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"saass",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"browse pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 324.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Dresdain/Documents/GitHub/gonzalesandcompany",
+		"/C/Users/Dresdain/Documents/GitHub/gonzalesandcompany/css",
+		"/C/Users/Dresdain/Documents/GitHub/gonzalesandcompany/js",
+		"/C/Users/Dresdain/Documents/GitHub/gonzalesandcompany/less"
+	],
+	"file_history":
+	[
+		"/C/Users/Dresdain/Documents/GitHub/gonzalesandcompany/index.html",
+		"/C/wamp/www/UberABMLatest/application/config/database.php",
+		"/C/wamp/www/UberABMLatest/application/views/modals/create-event-tpl.php",
+		"/C/Users/Dresdain/Unicom Interactive/Icon Files/icons list",
+		"/C/Users/Dresdain/Unicom Interactive/Icon Files/Social.ai (no explicitly mentioned subcategory but",
+		"/C/Users/Dresdain/Documents/GitHub/gonzalesandcompany/theme.html",
+		"/C/Users/Dresdain/Documents/GitHub/gonzalesandcompany/css/ie10-viewport-bug-workaround.css",
+		"/C/Users/Dresdain/Documents/GitHub/gonzalesandcompany/js/ie10-viewport-bug-workaround.js",
+		"/C/Users/Dresdain/JapanMedicalTourism/bootstrap-3.3.7/bootstrap-3.3.7/docs/examples/theme/theme.css",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/message-send.html",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/landing.html",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/scss/core/_variables.scss",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/scss/_custom.scss",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/js/views/dashboard-charts.js",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/js/views/main.js",
+		"/C/Users/Dresdain/Documents/GitHub/CoreUI-Free-Bootstrap-Admin-Template/Static_Full_Project_GULP/components-forms.html",
+		"/C/Users/Dresdain/Documents/GitHub/CoreUI-Free-Bootstrap-Admin-Template/Static_Full_Project_GULP/components-buttons.html",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/scss/bootstrap/_variables.scss",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/css/simple-line-icons.css",
+		"/C/Users/Dresdain/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/scss/bootstrap/mixins/_buttons.scss",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/scss/bootstrap/mixins/_border-radius.scss",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/scss/bootstrap/_modal.scss",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/scss/bootstrap/_transitions.scss",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/messages.html",
+		"/C/Users/Dresdain/Unicom Interactive/CKS EDM/index.html",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/js/popper.min.js",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/scss/style.scss",
+		"/C/Users/Dresdain/Documents/GitHub/ascentdigital.github.io/js/Chart.min.js",
+		"/C/Users/Dresdain/AppData/Local/Temp/fz3temp-3/index.html",
+		"/C/Users/Dresdain/Unicom Interactive/EDM/Issue 3, 2017 - CKS Property Market EDM/index2.html",
+		"/C/Users/Dresdain/Unicom Interactive/EDM/Issue 3, 2017 - CKS Property Market EDM/index.html",
+		"/C/Users/Dresdain/AppData/Local/Temp/fz3temp-2/rk-more-products.php",
+		"/C/wamp/www/UberABM SVN/sftp-config.json",
+		"/C/wamp/www/UberABM SVN/scss/_variables.scss",
+		"/C/wamp/www/UberABM SVN/css/custom-dain-extended.css",
+		"/C/wamp/www/UberABM SVN/scss/custom-dain-extend.scss",
+		"/C/wamp/www/UberABM SVN/js/custom-dain.js",
+		"/C/wamp/www/UberABM SVN/includes/_programme-choice.php",
+		"/C/wamp/www/UberABM SVN/includes/_review.php",
+		"/C/wamp/www/UberABM SVN/includes/_programme.php",
+		"/C/wamp/www/UberABM SVN/css/custom-dain-extended-bk.haml",
+		"/C/wamp/www/UberABM SVN/event-organizer-info.php",
+		"/C/wamp/www/UberABM SVN/trainer-info.php",
+		"/C/wamp/www/UberABM SVN/includes/_tools-overlay.php",
+		"/C/wamp/www/UberABM SVN/campaign-in-the-box.php",
+		"/C/wamp/www/UberABM SVN/sd-wan-box.php",
+		"/C/wamp/www/UberABM SVN/css/custom-dain.css",
+		"/C/Users/Dresdain/AppData/Local/Temp/fz3temp-2/BootCamp Sales.oft",
+		"/C/wamp/www/UberABM SVN/includes/header.php",
+		"/C/wamp/www/UberABM SVN/js/jquery.ui.touch-punch.min.js",
+		"/C/wamp/www/UberABM SVN/includes/footer.php",
+		"/C/wamp/www/UberABM SVN/scss/custom-dain.scss",
+		"/C/wamp/www/apacjuni/application/config/database.php",
+		"/C/wamp/www/apacjuni/application/config/config.php",
+		"/C/wamp/www/apacjuni/application/config/routes.php",
+		"/C/wamp/www/apacjuni/.htaccess",
+		"/C/wamp/www/UberABM SVN/css/custom-ayethet.css",
+		"/C/wamp/www/UberABM SVN/css/custom-dain.css.map",
+		"/C/wamp/www/UberABM SVN/global-hits.php",
+		"/C/wamp/www/UberABM SVN/create-event-popup.php",
+		"/C/wamp/www/uberabm/js/custom-dain.js",
+		"/C/wamp/www/uberabm/sftp-config.json",
+		"/C/wamp/www/uberabm/global-hits.php",
+		"/C/wamp/www/uberabm/campaign-in-the-box.php",
+		"/C/wamp/www/UberABM SVN/organizer-info.php",
+		"/C/wamp/www/UberABM SVN/tools-overlay.php",
+		"/C/wamp/www/uberabm/scss/_variables.scss",
+		"/C/Users/Dresdain/AppData/Local/Temp/fz3temp-2/shipping_address_form.php",
+		"/C/Users/Dresdain/AppData/Local/Temp/fz3temp-2/shipping.php",
+		"/C/Users/Dresdain/AppData/Local/Temp/fz3temp-2/billing_address_form.php",
+		"/C/wamp/www/uberabm/css/custom-dain.css.map",
+		"/C/wamp/www/UberABM SVN/koala-config.json",
+		"/C/wamp/www/UberABM SVN/.libsass.json",
+		"/D/Dresdain/Downloads/hosts",
+		"/C/wamp/www/UberABM SVN/scss/custom-dain2.css",
+		"/C/wamp/www/UberABM SVN/scss/_color.scss",
+		"/C/Users/Dresdain/AppData/Roaming/Sublime Text 3/Packages/Libsass Build/Libsass Build.sublime-settings",
+		"/C/Users/Dresdain/AppData/Roaming/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
+		"/C/wamp/www/UberABM SVN/scss/custom-dain2.scss",
+		"/C/wamp/www/UberABM SVN/scss/.sassbuilder-config.json",
+		"/C/wamp/www/UberABM SVN/.sassbuilder-config.json",
+		"/C/wamp/www/UberABM SVN/css/.sassbuilder-config.json",
+		"/C/wamp/www/UberABM SVN/notification-popup.php",
+		"/C/wamp/www/uberabm/notification-popup.php",
+		"/C/wamp/www/uberabm/css/custom-dain.css",
+		"/C/wamp/www/UberABM SVN/info.php",
+		"/C/wamp/www/UberABM SVN/css/custom-dain.scss",
+		"/C/wamp/www/UberABM SVN/css/_colors.less",
+		"/C/wamp/www/custom-dain.css",
+		"/C/wamp/www/uberabm/css/mui.css",
+		"/C/wamp/www/uberabm/login.php",
+		"/C/wamp/www/uberabm/register.php",
+		"/C/wamp/www/uberabm/reset-password.php",
+		"/C/wamp/www/uberabm/reset-password_bak.php",
+		"/C/wamp/www/uberabm/login_bak.php",
+		"/C/wamp/www/uberabm/includes/header.php",
+		"/C/wamp/www/uberabm/register_bak.php",
+		"/C/wamp/www/uberabm/includes/footer.php",
+		"/C/wamp/www/uberabm/js/mui.js",
+		"/C/wamp/www/scouts-deed/assets/css/custom-dain.css",
+		"/C/Users/Dresdain/Unicom Interactive/Adobe Edge Animate/July 7/deploabl2/160x600/publish/web/160x600.html",
+		"/C/Users/Dresdain/Unicom Interactive/Adobe Edge Animate/July 7/deploabl2/300x250/publish/web/300x250.html",
+		"/C/Users/Dresdain/Unicom Interactive/Adobe Edge Animate/July 7/deploabl2/320x50/publish/web/320x50.html",
+		"/C/Users/Dresdain/Unicom Interactive/Adobe Edge Animate/July 7/deploabl2/728x90_banner/publish/web/728x90_banner.html",
+		"/C/Users/Dresdain/Unicom Interactive/Adobe Edge Animate/July 7/deploabl2/Deployable/160x600_src/160x600/160x600.html",
+		"/C/wamp/www/GoodDeed_Scout/assets/css/custom-dain.css",
+		"/C/wamp/www/GoodDeed_Scout/application/views/home.php",
+		"/C/wamp/www/GoodDeed_Scout/application/views/login.php",
+		"/C/wamp/www/GoodDeed_Scout/assets/js/custom-dain.js",
+		"/C/wamp/www/GoodDeed_Scout/html/includes/footer.php",
+		"/C/wamp/www/scouts-deed/application/views/includes/left-sidebar.php",
+		"/C/wamp/www/scouts-deed/application/views/includes/header-dain-nav.php",
+		"/C/wamp/www/scouts-deed/application/views/includes/footer.php",
+		"/C/wamp/www/scouts-deed/application/views/user-profile.php",
+		"/C/wamp/www/scouts/html/profile.php",
+		"/C/wamp/www/scouts/html/includes/header-dain-nav.php",
+		"/C/wamp/www/scouts/html/post-good-deed.php",
+		"/C/wamp/www/scouts/html/includes/left-sidebar.php",
+		"/C/wamp/www/scouts/html/includes/header-top-nav.php",
+		"/C/wamp/www/scouts/html/gallery.php",
+		"/C/wamp/www/scouts/html/new-feed.php",
+		"/C/wamp/www/scouts/html/css/custom-dain.css",
+		"/C/wamp/www/scouts/html/includes/header-nav.php",
+		"/C/wamp/www/scouts/html/edit-profile.php",
+		"/C/wamp/www/scouts/html/register.php",
+		"/C/wamp/www/scouts/html/css/custom-aye.css",
+		"/C/wamp/www/scouts/css/animate.css"
+	],
+	"find":
+	{
+		"height": 73.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+			"C:\\Users\\Dresdain\\Documents\\GitHub\\ascentdigital.github.io\\scss\\bootstrap",
+			"C:\\Users\\Dresdain\\Documents\\GitHub\\ascentdigital.github.io\\css",
+			"C:\\Users\\Dresdain\\Documents\\GitHub\\ascentdigital.github.io\\scss",
+			"C:\\Users\\Dresdain\\Documents\\GitHub\\ascentdigital.github.io\\scss\\bootstrap",
+			"C:\\Users\\Dresdain\\Unicom Interactive\\Mike Remote\\Homeloands May 25\\homeloans\\homeloans",
+			"C:\\Users\\Dresdain\\Unicom Interactive\\Mike Remote\\Homeloands May 25\\homeloans_posb\\homeloans\\calculate",
+			"C:\\Users\\Dresdain\\Unicom Interactive\\Mike Remote\\Homeloands May 25\\homeloans\\homeloans\\calculate",
+			"C:\\Users\\Dresdain\\Unicom Interactive\\Dain Remote\\Dain Remote\\dbs\\v5\\support\\iwov-resources\\scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav",
+			"ts/j",
+			"s/j",
+			"ts/j",
+			"emailadd",
+			"exampleInputEmail1",
+			"panel-wi",
+			"accreditation@gonzalesandcompany.com",
+			"support@gonzalesandcompany.com",
+			" text-left",
+			"ts/c",
+			"ts/",
+			"1.2rem",
+			"50px",
+			" primary-bg ",
+			"gonzales",
+			"shadow-text",
+			"showcase-se",
+			"showcase",
+			"text-shadow",
+			"panel-widget ",
+			"main-",
+			"primary",
+			"banner-left ",
+			"banner-tab",
+			"banner-left",
+			"banner",
+			"banner-left",
+			"audio",
+			"#contact",
+			"list-unstyled",
+			"class=\"text-muted\"",
+			"logo",
+			"80deg",
+			"img-responsive",
+			"<div class=\"item\">",
+			"</div>\n                </div>",
+			"href=\"\"",
+			"href=\"",
+			"<div class=\"item\">",
+			"node_modules/owl.carousel/dist/",
+			"panel",
+			"news-container",
+			"col-md-3",
+			"md",
+			"80deg",
+			"#000000",
+			"text-primar",
+			"#style-4",
+			"an class=\"text-muted\">\n                      Lunch and Lear",
+			"n >",
+			"rn >",
+			"b",
+			"maven",
+			"$border-rad",
+			"- \n",
+			"- ",
+			"80px",
+			"-1",
+			"primary-bg",
+			"card-1",
+			"selected",
+			"90px",
+			"rar",
+			"20",
+			"text-transform",
+			".btn",
+			"button",
+			"\"Roboto\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+			"Roboto",
+			"\"Roboto\"",
+			" ",
+			"%20",
+			"$enable-rounded",
+			"@mixin border-radius",
+			"border-radius",
+			"$border-radius",
+			"$btn-border-radius",
+			"translate",
+			"backdrop",
+			"woff2",
+			"svgd",
+			"?v=2.4.0",
+			"@font",
+			"fontawesome",
+			"simple",
+			"main.js",
+			"radius",
+			"border",
+			"components",
+			"$table-invers",
+			"$table-inverse",
+			"modal",
+			"$modal-transition",
+			"exampleModal",
+			".length",
+			"Icon/Text",
+			"buttons",
+			"fa-twitter",
+			"buttons</strong",
+			"buttons",
+			"<<",
+			"sub-list",
+			"profile",
+			"home",
+			"subscibers-type",
+			"profile",
+			"home",
+			"sub-list-1",
+			"size small",
+			"extra",
+			"exampleFormControlTextarea1",
+			"lineChartData",
+			"barChartData\n",
+			">HIV Awareness<",
+			"<td><a href=\"#\">+100-3018-203</a></td>",
+			"canvas",
+			"canvas-1",
+			"randomizer_2",
+			"randomScalingFactor",
+			"attr",
+			"month",
+			"buttons group",
+			"_test",
+			"i2",
+			"issue_2_2017",
+			"images/",
+			"The price index for all private residential properties dipped by a mere 0.1% quarter-on-quarter. As of Q2 2017, prices of private residential property have seen a cumulative drop of 11.6% since the introduction of the Total Debt Servicing Ratio (TDSR) framework in June 2013."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client-service.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1791,
+								1791
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17466,
+								17466
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7897.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7789,
+								7789
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3061.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "join.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3250,
+								3250
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 778.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "theme.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2013,
+								2013
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 824.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "accreditation.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3256,
+								3256
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "less/custom.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12760,
+								12760
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10057.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Dresdain/Unicom Interactive/Icon Files/icons list",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								564
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "css/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3307,
+								3307
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 816.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 167738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141579,
+								141579
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 110541.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.771591052318,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "Gonzales and company.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"varia",
+				"UberABM SVN\\scss\\_variables.scss"
+			],
+			[
+				"footer",
+				"GoodDeed_Scout\\html\\includes\\footer.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 599.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"uber",
+				"C:\\wamp\\www\\uberabm\\UBERABM.sublime-project"
+			],
+			[
+				"dbs ",
+				"C:\\Users\\Dresdain\\Unicom Interactive\\DBS Car Marketplace\\DBS Car Marketplace.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Dresdain\\Unicom Interactive\\DBS Car Marketplace\\DBS Car Marketplace.sublime-project"
+			],
+			[
+				"tefal",
+				"C:\\Users\\Dresdain\\Unicom Interactive\\Tefal\\Tefal.sublime-project"
+			],
+			[
+				"juniper",
+				"C:\\wamp\\www\\UNICOM Juniper.sublime-project"
+			],
+			[
+				"dbs",
+				"C:\\Users\\Dresdain\\Unicom Interactive\\DBS Car Marketplace\\DBS Car Marketplace.sublime-project"
+			],
+			[
+				"market",
+				"C:\\Users\\Dresdain\\Unicom Interactive\\DBS Car Marketplace\\DBS Car Marketplace.sublime-project"
+			],
+			[
+				"aclea",
+				"C:\\Users\\Dresdain\\Outsource\\FEB 2017 A Clear Word\\A-Clear-Word.sublime-project"
+			],
+			[
+				"scouts",
+				"C:\\wamp\\www\\scouts.sublime-project"
+			],
+			[
+				"acl",
+				"C:\\Users\\Dresdain\\Outsource\\FEB 2017 A Clear Word\\A-Clear-Word.sublime-project"
+			],
+			[
+				"ACL",
+				"C:\\Users\\Dresdain\\Outsource\\FEB 2017 A Clear Word\\A-Clear-Word.sublime-project"
+			],
+			[
+				"aclear",
+				"C:\\Users\\Dresdain\\Outsource\\FEB 2017 A Clear Word\\A-Clear-Word.sublime-project"
+			],
+			[
+				"te",
+				"C:\\Users\\Dresdain\\Unicom Interactive\\Tefal\\Tefal.sublime-project"
+			],
+			[
+				"Juniper",
+				"C:\\wamp\\www\\UNICOM Juniper.sublime-project"
+			]
+		],
+		"width": 455.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 419.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
